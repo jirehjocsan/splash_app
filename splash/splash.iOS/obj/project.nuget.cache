@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gA2/+ElRSmGjY/xhWPtVG10n5oz5fxiUPgVCmjVrZYDJg2KHye2x+h2ONe3TVAUycsTZcCQGuH5SV9CfEEMydg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jireh\\Downloads\\splash\\splash\\splash.iOS\\splash.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jireh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
